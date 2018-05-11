@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.kongjian.screenadapter.RelativeLayoutFit
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="1040px"
+        android:layout_height="80px"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:layout_width="680px"
+        android:layout_height="400px"
+        android:layout_marginLeft="200px"
+        android:layout_marginRight="200px"
+        android:layout_marginTop="150px"
+        android:background="@color/colorAccent" />
+
+</com.example.kongjian.screenadapter.RelativeLayoutFit>
